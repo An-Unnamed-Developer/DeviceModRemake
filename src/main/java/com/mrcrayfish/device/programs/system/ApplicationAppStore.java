@@ -39,7 +39,7 @@ import java.util.List;
 @DeviceApplication(modId = Reference.MOD_ID, appId = "ender_mail")
 public class ApplicationAppStore extends SystemApplication
 {
-	public static final String CERTIFIED_APPS_URL = "https://raw.githubusercontent.com/MrCrayfish/DeviceMod-CertifiedApps/master";
+	public static final String CERTIFIED_APPS_URL = "https://raw.githubusercontent.com/An-Unnamed-Developer/DeviceMod-CertifiedApps/master";
 
 	public static final int LAYOUT_WIDTH = 250;
 	public static final int LAYOUT_HEIGHT = 150;
