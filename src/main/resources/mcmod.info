@@ -1,13 +1,13 @@
 [
 {
-  "modid": "cdm",
-  "name": "MrCrayfish's Device Mod",
+  "modid": "uddm",
+  "name": "Unnamed Developer's Device Mod",
   "description": "Adds working electronic devices into Minecraft!",
   "version": "0.4.1",
   "mcversion": "1.12.2",
-  "url": "https://mrcrayfish.com/mods?id=cdm",
+  "url": "https://github.com/An-Unnamed-Developer/DeviceModRemake/",
   "updateUrl": "",
-  "authorList": ["MrCrayfish"],
+  "authorList": ["MrCrayfish","An-Unnamed-Developer"],
   "credits": "Thank you to MinecraftDoodler for helping with textures. Cheers to these people for donating during the development: Mastef Chief, Haunted Corpse, Jake Crowley, fabbe50, PlayDashGaming, jack jook, Hunstagamez, Techyy YT, MinecraftDoodler, Norge100YT, Cyberman2208, CreepergamingsMC",
   "logoFile": "",
   "screenshots": [],
