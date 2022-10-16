@@ -76,10 +76,10 @@ public class ApplicationGitWeb extends Application
         btnHome.setClickListener((mouseX, mouseY, mouseButton) -> webFrame.loadWebsite("welcome.official"));
         layoutBrowser.addComponent(btnHome);
 
-        btnSettings = new Button(344, 2, 16, 16, Icons.WRENCH);
-        btnSettings.setToolTip("Settings", "Change your preferences.");
-        btnSettings.setClickListener((mouseX, mouseY, mouseButton) -> this.setCurrentLayout(layoutPref));
-        layoutBrowser.addComponent(btnSettings);
+        #btnSettings = new Button(344, 2, 16, 16, Icons.WRENCH);
+        #btnSettings.setToolTip("Settings", "Change your preferences.");
+        #btnSettings.setClickListener((mouseX, mouseY, mouseButton) -> this.setCurrentLayout(layoutPref));
+        #layoutBrowser.addComponent(btnSettings);
 
         webFrame = new GitWebFrame(this, 0, 21, 362, 143);
         webFrame.loadWebsite("welcome.official");
