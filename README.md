@@ -1,4 +1,4 @@
-I have managed to re-route the GitWeb browser to GitHub.com/an-unnamed-developer/gwsites
+I have managed to re-route the GitWeb browser to GitHub.com/an-unnamed-developer/gwsites - although untested
 
 ### ** I need help with this!!! ** ###
 
