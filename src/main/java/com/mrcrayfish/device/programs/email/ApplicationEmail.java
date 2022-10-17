@@ -35,7 +35,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-@DeviceApplication(modId = Reference.MOD_ID, appId = "app_store")
+@DeviceApplication(modId = Reference.MOD_ID, appId = "ender_mail")
 public class ApplicationEmail extends Application
 {
 	private static final ResourceLocation ENDER_MAIL_ICONS = new ResourceLocation("cdm:textures/gui/ender_mail.png");

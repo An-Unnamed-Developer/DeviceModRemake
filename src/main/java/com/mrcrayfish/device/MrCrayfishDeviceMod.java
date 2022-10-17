@@ -49,15 +49,9 @@ public class MrCrayfishDeviceMod
 
 	private static Logger logger;
 
-	public static final boolean DEVELOPER_MODE = true;
-
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event) throws LaunchException
 	{
-		if(DEVELOPER_MODE && !(Boolean) Launch.blackboard.get("fml.deobfuscatedEnvironment"))
-		{
-			throw new LaunchException();
-		}
 		logger = event.getModLog();
 
 		proxy.preInit();
